@@ -14,7 +14,11 @@ This repository is the production-intended CEPA WordPress redesign using TheGem 
 
 - The prior Elementor implementation is archived and must never be modified.
 - Do not use the archived Elementor implementation as the implementation architecture for this WPBakery rebuild.
-- The client-approved prototype at `C:\Users\klyakov.ISG-INC\Local Sites\cepa-dev-clean\app\public\wp-content\themes\cepa-child\prototypes\concept-2-5-approved` is the visual/design source of truth and may be inspected read-only.
+
+## Design Source
+
+- `prototypes/concept-2-5-approved` is the client-approved visual/design source of truth for this WPBakery rebuild.
+- The prototype snapshot is a reference artifact and should not be modified unless explicitly instructed.
 - Older prototypes are not approved design sources.
 
 ## Implementation Rules
